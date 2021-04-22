@@ -1,0 +1,10 @@
+para subir o ap1-1:
+
+criei ele dentro da pasta com a extenção .txt
+
+git add . - usado para adicionar arquivos dentro da pasta, o (ponto) é para
+adicionar todos os arquivos que estão dentro daquela pasta.
+
+git commit -m  "sucesso2" - serve para confirmar o que foi alterado/adicionado.
+
+git push - utilizado para atualizar/subir os arquivos.
