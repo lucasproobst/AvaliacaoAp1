@@ -1,0 +1,18 @@
+criando repositório no github
+
+git clone https://github.com/lucasproobst/AvaliacaoAp1 - serve para baixar a pasta diretamente do github.
+
+criei dois arquivos TXT, ap1.txt e ap1-1.txt (manualmente sem comandos)
+
+dir - verificar se os arquivos foram criados corretamente.
+
+git config --global user.name "lucasproobst" - serve para setar o nome que poderá apresentado.
+git config --global user.email "lucasprobst@rede.ulbra.br" - serve para colocar o email que poderá apresentado.
+
+git add . - usado para adicionar arquivos dentro da pasta, o (ponto) é para
+adicionar todos os arquivos que estão dentro daquela pasta.
+
+git commit -m  "sucesso" - serve para confirmar o que foi alterado/adicionado.
+
+git push - utilizado para atualizar/subir os arquivos.
+
